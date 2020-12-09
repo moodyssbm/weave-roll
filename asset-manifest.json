@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/weave-roll/static/css/main.acc99d3b.chunk.css",
+    "main.js": "/weave-roll/static/js/main.8da9b92a.chunk.js",
+    "main.js.map": "/weave-roll/static/js/main.8da9b92a.chunk.js.map",
+    "runtime-main.js": "/weave-roll/static/js/runtime-main.ac683d5b.js",
+    "runtime-main.js.map": "/weave-roll/static/js/runtime-main.ac683d5b.js.map",
+    "static/js/2.b3893771.chunk.js": "/weave-roll/static/js/2.b3893771.chunk.js",
+    "static/js/2.b3893771.chunk.js.map": "/weave-roll/static/js/2.b3893771.chunk.js.map",
+    "index.html": "/weave-roll/index.html",
+    "static/css/main.acc99d3b.chunk.css.map": "/weave-roll/static/css/main.acc99d3b.chunk.css.map",
+    "static/js/2.b3893771.chunk.js.LICENSE.txt": "/weave-roll/static/js/2.b3893771.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac683d5b.js",
+    "static/js/2.b3893771.chunk.js",
+    "static/css/main.acc99d3b.chunk.css",
+    "static/js/main.8da9b92a.chunk.js"
+  ]
+}
